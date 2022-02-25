@@ -1,0 +1,61 @@
+.search-container {
+    margin: 30px 0;
+
+    > .filters {
+        background: #fff;
+        border-radius: 4px;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+        padding: 20px;
+        margin: 10px;
+        width: 24rem;
+
+        > .filter {
+            border-bottom: 1px solid rgba(0,0,0,0.1);
+            padding: 10px 0px;
+
+            &:last-child {
+                border-bottom: none;
+            }
+            
+            > h3 {
+                margin: 0 0 10px 0;
+                padding: 0;
+                font-size: 1.1em;
+                font-weight: bold;
+            }
+
+            ul.checkboxes {
+                > li {
+                    margin: 0 0 5px 0;
+
+                    > input {
+                        margin-top: -3px;
+                        margin-right: 8px;
+                    }
+
+                    > label {
+                        display: inline-block;
+                        padding: 0;
+                        margin: 0;
+                        line-height: 1rem;
+                        font-size: 1em;
+                        font-weight: normal;
+                    }
+                }
+            }
+        }
+    }
+
+    > .results {
+        padding: 10px;
+        margin: 0 10px 10px 10px;
+
+        > .searchbox {
+            margin-bottom: 10px;
+            flex-direction: row;
+            display: flex;
+            max-width: 48rem;
+            position: relative;
+        }
+    }
+}

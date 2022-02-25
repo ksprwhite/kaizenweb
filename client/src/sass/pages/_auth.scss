@@ -1,0 +1,99 @@
+/* REGISTER FORM */
+.auth-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.auth-form {
+    background: #fff;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    display: table;
+    overflow: hidden;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.auth-form > .form {
+    display: table-cell;
+    padding: 25px 30px;
+    min-width: 400px;
+}
+
+.auth-form > .form > h3,
+.auth-form > .splash > h3 {
+    margin: 0 0 15px 0;
+    padding: 0;
+    font-size: 1.6em;
+}
+
+.auth-form > .form .form-group {
+    margin-bottom: 15px;
+    flex-direction: column;
+    display: flex;
+}
+
+.auth-form > .form .form-group > label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 4px;
+    font-size: 1.1em;
+}
+
+.auth-form > .form .form-group input {
+    padding: 9px 12px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 3px;
+    width: auto;
+}
+
+.auth-form > .form .form-group > label > input {
+    top: 1px;
+    position: relative;
+}
+
+.auth-form > .form .form-group.submit {
+    margin-top: 30px;
+}
+
+.auth-form .form .form-group.troubleshoots {
+    text-align: right;
+}
+
+.auth-form .form .form-group.troubleshoots ul li {
+    margin-bottom: 5px;
+}
+
+.auth-form > .splash {
+    color: white;
+    display: table-cell;
+    background: url('../register-splash.svg') repeat;
+    padding: 25px 30px;
+    width: 400px;
+}
+
+.auth-form > .splash > h3 {
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding-bottom: 15px;
+}
+
+.auth-form > .splash > p {
+    font-size: 1.3em;
+}
+
+.auth-form > .splash > ul {
+    margin-top: 30px;
+    margin-left: 15px;
+    font-size: 1.1em;
+}
+
+.auth-form > .splash > ul li {
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.auth-form > .splash > ul > li > span.text {
+    margin-left: 5px;
+}

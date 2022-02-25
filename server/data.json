@@ -1,0 +1,368 @@
+{
+  "chapters": [
+    {
+      "comic_id": 1,
+      "chapter": {
+        "title": "Golpe de efecto",
+        "number": 338,
+        "pages": 18
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/615b37c54415c.jpg"
+    },
+    {
+      "comic_id": 2,
+      "chapter": {
+        "title": "Esbozar una sonrisa",
+        "number": 200,
+        "pages": 21
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5d69c0e23c588.jpg"
+    },
+    {
+      "comic_id": 3,
+      "chapter": {
+        "title": "La historia de cómo todos nos convertimos en héroes, Parte 1",
+        "number": 338,
+        "pages": 20
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/61b75e1112952.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 4,
+      "chapter": {
+        "number": 223,
+        "pages": 20
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5d924d4309b18.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 5,
+      "chapter": {
+        "title": "Comprobación",
+        "number": 195,
+        "pages": 20
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5bc7cc1d2cf73.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 6,
+      "chapter": {
+        "number": 512,
+        "pages": 20
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5b35b03f10f2f.jpg",
+      "type": "manhua"
+    },
+    {
+      "comic_id": 7,
+      "chapter": {
+        "title": "Gas vs Granola",
+        "number": 79,
+        "pages": 40
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5bc8ec8714fae.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 8,
+      "chapter": {
+        "title": "Yu Ishigami no puede hablar",
+        "number": 247,
+        "pages": 20
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5ec3178e58054.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 9,
+      "chapter": {
+        "title": "Historias del Battle Royale",
+        "number": 333,
+        "pages": 20
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5c96cc0145e6c.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 10,
+      "chapter": {
+        "title": "Vagar por el espacio",
+        "number": 171,
+        "pages": 20
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5ed7c89d48004.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 11,
+      "chapter": {
+        "title": "Rey vs. Rey",
+        "number": 56,
+        "pages": 40
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5d36b3539b62b.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 12,
+      "chapter": {
+        "title": "El Sexto Goshinryuu",
+        "number": 93,
+        "pages": 20
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5d51bf4d928d7.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 13,
+      "chapter": {
+        "number": 55,
+        "pages": 20
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/614e5ce50943e.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 14,
+      "chapter": {
+        "title": "Habitación 55",
+        "number": 55,
+        "pages": 21
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/6151370f205b5.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 15,
+      "chapter": {
+        "title": "Colonia Nº 1 de Tokio ⑨",
+        "number": 169,
+        "pages": 20
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5ea1f703b755f.jpg",
+      "type": "manga"
+    },
+    {
+      "comic_id": 16,
+      "chapter": {
+        "title": "visita",
+        "number": 295,
+        "pages": 20
+      },
+      "thumbnail": "https://otakuteca.com/images/books/cover/5d523eb3e2d0b.jpg",
+      "type": "manga"
+    }
+  ],
+  "featuredMangas": [
+    {
+      "title": "Dragon Ball Super",
+      "thumbnail": "https://cdn.myanimelist.net/images/manga/2/37846.jpg",
+      "type": "manga"
+    },
+    {
+      "title": "Berserk",
+      "thumbnail": "https://otakuteca.com/images/books/cover/5bc80d3ce44c3.jpg",
+      "type": "manga"
+    },
+    {
+      "title": "One piece",
+      "thumbnail": "https://cdn.myanimelist.net/images/manga/2/253146.jpg",
+      "type": "manga"
+    },
+    {
+      "title": "One punch man",
+      "thumbnail": "https://cdn.myanimelist.net/images/manga/3/80661.jpg",
+      "type": "manga"
+    },
+    {
+      "title": "Chainsaw man",
+      "thumbnail": "https://cdn.myanimelist.net/images/manga/3/216464.jpg",
+      "type": "manga"
+    }
+  ],
+  "mangas": [
+    {
+      "id": 1,
+      "title": "One piece",
+      "type": "MANGA",
+      "synopsis": "Hace veintidós años, el legendario pirata, Gold D. Roger fue ejecutado. Sus últimas palabras fueron que su tesoro conocido como \"One Piece\" estaba escondido en algún lugar dentro del vasto océano conocido como Grand Line. Esto dio inicio a la Era de los Piratas. Ahora, Monkey D. Luffy, un joven que, inspirado por su ídolo de la infancia emprende su viaje buscando el One Piece y convertirse en el Rey de los Piratas.",
+      "status": "publishing",
+      "year": 1999,
+      "thumbnail": "https://i.imgur.com/JPvga83.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tokyo Revengers",
+      "type": "MANGA",
+      "synopsis": "Takemichi es un desempleado de 26 años que se entera que la chica con la que salía en la escuela media ha muerto. Pero sucede un accidente y regresa en el tiempo a sus años de escuela media. Él jura que cambiara el futuro y lograra salvar a la chica que era su novia, para lograrlo su objetivo es llegar a la cima de la región más violenta de bandas de delincuentes.",
+      "status": "publishing",
+      "year": 2017,
+      "thumbnail": "https://i.imgur.com/pgtOUFv.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Boku no Hero Academia",
+      "type": "MANGA",
+      "synopsis": "La historia está ambientada en la época actual, excepto que las personas con poderes especiales se han vuelto comunes en todo el mundo. Un chico llamado Izuku Midoriya no tiene poderes, pero sueña tenerlos.",
+      "status": "publishing",
+      "year": 2014,
+      "thumbnail": "https://i.imgur.com/1bcIbmp.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Dr. Stone",
+      "type": "MANGA",
+      "synopsis": "Senkuu y Taiju son dos amigos y estudiantes de preparatoria, el primero de ellos es un genio del club de química mientras que el otro es un grandullón musculoso e idiota. Después de 5 largos años, Taiju ha decidido declararle su amor a Yuzuriha, pero no todo siempre sale como nos gustaría... En la tierra ocurre un suceso que convierte a todo el mundo en piedra. ¿Cómo lograrán sobrevivir en este mundo post apocalíptico?",
+      "status": "publishing",
+      "year": 2017,
+      "thumbnail": "https://i.imgur.com/x8Cb9FX.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "One Punch-Man",
+      "type": "MANGA",
+      "synopsis": "La historia tiene lugar en una de las metrópolis de ficción de la Tierra, la Ciudad-Z. ¡Sigue la vida de un héroe promedio que gana todas sus peleas con un solo puño! Esto le causa un montón de frustración, ahora ya no siente la adrenalina y la emoción de una dura pelea. Tal vez ese riguroso entrenamiento para volverse fuerte no valió la pena. Después de todo, ¿qué tiene de bueno tener un poder tan aplastante?",
+      "status": "publishing",
+      "year": 2012,
+      "thumbnail": "https://i.imgur.com/T2t09y9.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Versatile Mage",
+      "type": "MANHUA",
+      "synopsis": "Despertó, y el mundo cambió. La escuela secundaria familiar ahora enseña magia, animando a los estudiantes a convertirse en los mejores magos que puedan ser. Más allá de los límites de la ciudad, las bestias mágicas errantes se aprovechan de los humanos. Un mundo científico avanzado se transformó en uno con magia avanzada. Sin embargo, lo que no ha cambiado fue el mismo maestro que lo mira con desdén, los mismos estudiantes que lo miran con desprecio, el mismo padre que lucha en el último peldaño de la sociedad y la misma hermanastra inocente que no puede caminar. Sin embargo, Mo Fan descubrió que mientras que todos los demás solo pueden usar un elemento principal, ¡él mismo puede usar toda la magia!",
+      "status": "publishing",
+      "year": 2015,
+      "thumbnail": "https://i.imgur.com/RnQyed3.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Dragon Ball Super",
+      "type": "MANGA",
+      "synopsis": "Secuela de Dragon Ball Z que ocurre tras lo sucedido con Majin Buu, en donde Goku se ve envuelto en un nuevo mundo tras conocer al Dios de la Destrucción, Bills, y su compañero Whis.",
+      "status": "publishing",
+      "year": 2015,
+      "thumbnail": "https://i.imgur.com/DclPX76.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren\"ai Zunōsen",
+      "type": "MANGA",
+      "synopsis": "Kaguya Shinomiya y Miyuki Shirogane son miembros del consejo estudiantil de la increíblemente prestigiosa academia Shuchi\"in, afirmando sus posiciones como genios entre los genios. Todo el tiempo que han pasado juntos ha ocasionado que empiecen a desarrollar sentimientos hacia el otro, sin embargo, ¡su orgullo no les permite confesarse y sumirse en una relación! El amor es una guerra, y su batalla para hacer que el otro se confiese, ¡empieza ahora!",
+      "status": "publishing",
+      "year": 2015,
+      "thumbnail": "https://i.imgur.com/Ho2CK6V.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Komi-san wa Komyushou Desu",
+      "type": "MANGA",
+      "synopsis": "El viaje a 100 amigos comienza con una sola conversación. El mayor sueño de la estudiante de secundaria socialmente ansiosa Shouko Komi es hacer amigos, ¡pero todos en la escuela confunden su ansiedad social paralizante con una reserva fría! Con todo el cuerpo estudiantil manteniendo su distancia y Komi incapaz de pronunciar una sola palabra, la amistad podría estar siempre fuera de su alcance. Tadano Hitohito es un chico ordinario total, y así es como le gusta. Vive para mezclarse con el fondo. Todo eso cambia cuando se encuentra solo en un salón de clases el primer día de la escuela secundaria con la legendaria Komi. Rápidamente se da cuenta de que ella no es distante, sino que tiene problemas para comunicarse con los demás. ¡Ahora ha hecho su misión ayudarla en su búsqueda para hacer 100 amigos!",
+      "status": "publishing",
+      "year": 2016,
+      "thumbnail": "https://i.imgur.com/3kEPWfh.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Edens Zero",
+      "type": "MANGA",
+      "synopsis": "En un universo lleno de cosas increíbles Rebeca y Happy son dos viajeros que llegan a una isla dominada por robots, ahí conocen a un chico llamado Shiki, junto a el viajaran en una aventura a través del espacio. Acompáñennos en este nuevo manga de Hiro Mashima autor de Fairy Tail.",
+      "status": "publishing",
+      "year": 2018,
+      "thumbnail": "https://i.imgur.com/ZIH9Kvw.jpeg"
+    },
+    {
+      "id": 11,
+      "title": "Shuumatsu no Valkyrie",
+      "type": "MANGA",
+      "synopsis": "Shuumatsu no Valkyrie es una historia de fantasía que comienza cuando los Dioses se reúnen con el objetivo de decidir si la humanidad debe vivir o morir. Y aunque llegan a la conclusión de que debe perecer, una Valkyria propone que Dioses y humanos luchen una última vez para tomar tan difícil decisión. Así, 13 humanos pelearán contra 13 Dioses para resolver el destino de la humanidad.",
+      "status": "publishing",
+      "year": 2017,
+      "thumbnail": "https://i.imgur.com/dpI3BKs.jpeg"
+    },
+    {
+      "id": 12,
+      "title": "Fairy Tail: 100 Years Quest",
+      "type": "MANGA",
+      "synopsis": "¡Después de superar la amenaza de Acnologia y Zeref, Fairy Tail se ha vuelto más fuerte y más enérgico! ¡La misión de 100 años a la que Natsu y compañía se fueron, y también a los miembros que se habían quedado en el gremio, ¿algo nuevo les va a suceder?! ¡Aunque se suponía que la historia había concluido, ¿ahora comienza una nueva aventura justo donde quedó el capítulo 545?!",
+      "status": "publishing",
+      "year": 2018,
+      "thumbnail": "https://i.imgur.com/gYqBVLJ.jpeg"
+    },
+    {
+      "id": 13,
+      "title": "The Daily Life of the Immortal King",
+      "type": "MANHUA",
+      "synopsis": "Wang Ling ha desarrollado habilidades increíbles desde una edad temprana. Sin embargo, para llevar una vida ordinaria, decide limitar sus poderes en un talismán. Desafortunadamente, su dulce vida diaria se ve amenazada cuando tiene que participar en una competencia cuando ingresa a la escuela secundaria.",
+      "status": "publishing",
+      "year": 2020,
+      "thumbnail": "https://i.imgur.com/GS7Rvv8.jpeg"
+    },
+    {
+      "id": 14,
+      "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+      "type": "MANGA",
+      "synopsis": "La historia tiene lugar en Koudo Ikusei, la escuela de prestigio por excelencia que cuenta con instalaciones de última generación en las que casi el 100% de los alumnos pueden ir a la universidad y encontrar trabajo. En ella los estudiantes tienen la libertad de llevar el peinado que quieran y de traer todos los efectos personales que deseen. Koudo Ikusei es una escuela paradisíaca, pero lo cierto es que sólo los alumnos “superiores” son bien tratados. El protagonista Kiyotaka Ayanokouji pertenece a la Clase-D, aquella en la sólo están los estudiantes “inferiores” que son ridiculizados por el resto de la escuela. Por alguna razón, Kiyotaka se despistó en sus exámenes de ingreso y terminó ahí. Sin embargo, después de conocer a Suzune Horikita y Kikyou Kushida, otros dos estudiantes de su misma clase, la situación de Kiyotaka comienza a cambiar.",
+      "status": "publishing",
+      "year": 2016,
+      "thumbnail": "https://i.imgur.com/nwM8FDp.jpeg"
+    },
+    {
+      "id": 15,
+      "title": "Jujutsu kaisen",
+      "type": "MANGA",
+      "synopsis": "Yuji Itadori es un estudiante con una increíble fuerza física pero no tiene ningún interés en los deportes y prefiere ser parte del club de ocultismo. Un día, espíritu maligno real aparece en la escuela y cambia la vida de Yuji para siempre.",
+      "status": "publishing",
+      "year": 2018,
+      "thumbnail": "https://i.imgur.com/o7mRKjc.jpeg"
+    },
+    {
+      "id": 16,
+      "title": "Enen no Shouboutai",
+      "type": "MANGA",
+      "synopsis": "Un inexplicable fenómeno de gente que de forma misteriosa estalla en llamas asalta a la humanidad, Shinra Kusakabe, un chico que desea convertirse en héroe se une al escuadrón especial de bomberos con el fin salvar a la humanidad y de descubrir el misterio detrás de su pasado",
+      "status": "publishing",
+      "year": 2015,
+      "thumbnail": "https://i.imgur.com/HlxiwcN.jpeg"
+    },
+    {
+      "id": 17,
+      "title": "Yu-Gi-Oh!",
+      "type": "MANGA",
+      "synopsis": "Yugi Muto un estudiante de decimo grado; al no tener amigos generalmente se la pasa jugando solo a los juegos. Un día logra por fin resolver el rompecabezas del Milenio; un misterioso artefacto egipcio, que le fue regalado por su abuelo. Desconociendo que este se encuentra poseído por un espiritu, que al tener contacto con este se convierte en Yu -Gi -Oh , el rey de los juegos. Misteriosas aventuras y secretos son las que enfrentara Yugi en esta historia.",
+      "status": "finished",
+      "year": 1996,
+      "thumbnail": "https://i.imgur.com/4wBf9ar.jpeg"
+    },
+    {
+      "id": 18,
+      "title": "Saint Seiya The Lost Canvas",
+      "type": "MANGA",
+      "synopsis": "Tenma y Alone son dos niños huérfanos que viven en un pueblo italiano. Su vida se ve interrumpida cuando Pandora se encuentra con Alone y le dice que él es la reencarnación de Hades, mientras tanto Tenma se encuentra con Dohko de Libra, quien lo lleva al santuario para convertirse en Santo. En el santuario Tenma se convierte en el Santo de Pegaso y se da cuenta que la reencarnación de la diosa Athena es Sasha, la hermana menor de Alone y al igual que el, antigua amiga de la infancia. Poco tiempo después tres santos de plata regresan de una misión en Italia dando la noticia que Hades ha despertado en ese lugar y da comienzo la guerra santa",
+      "status": "finished",
+      "year": 2006,
+      "thumbnail": "https://i.imgur.com/yLc4Qu4.jpeg"
+    },
+    {
+      "id": 19,
+      "title": "SPY X FAMILY",
+      "type": "MANGA",
+      "synopsis": "El espía profesional conocido como <Twilight> ha realizado misiones en cubierto durante muchos años, con la finalidad de conseguir un mundo mejor. Pero un día, él recibe un particular y difícil encargo por parte de sus superiores. Para esta misión, ¡¿tiene que formar una familia temporal y comenzar una nueva vida?! Una comedia de acción y espías sobre una familia como ninguna otra.",
+      "status": "publishing",
+      "year": 2019,
+      "thumbnail": "https://i.imgur.com/kTeiNic.jpeg"
+    },
+    {
+      "id": 20,
+      "title": "Solo Leveling",
+      "type": "MANHWA",
+      "synopsis": "Hace 10 años, después de que \"La Puerta\" que conectaba el mundo real con el mundo de los monstruos se abriera, algunas de las personas recibieron el poder de cazar los monstruos que vivían al otro lado de esta. Se les conoce como \"cazadores\". Sin embargo, no todos los cazadores son poderosos. Sung Jin-Woo, un cazador de rango E, es alguien que tiene que arriesgar su vida en humildes calabozos, lo llaman el \"más débil del mundo\". Al no tener habilidades para mostrar, apenas gana dinero luchando en mazmorras de bajo nivel... Al menos hasta que se encontro con una mazmorra oculta durante una incursión. Luego de estar en el borde de la muerte,Sung Jin-Woo tiene un \"Segundo Despertar\" y con este consigue un poder invaluable.",
+      "status": "finished",
+      "year": 2017,
+      "thumbnail": "https://i.imgur.com/L0eQFv6.jpeg"
+    }
+  ]
+}

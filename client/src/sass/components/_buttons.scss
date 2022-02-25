@@ -1,0 +1,41 @@
+/* BUTTONS */
+.btn,
+input.btn {
+    background: #bdc3c7;
+    color: #151c1d;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 7px 12px;
+    border: none!important;
+    width: auto;
+}
+
+.btn.green {
+    background: #1baf92;
+    color: white;
+}
+
+.btn.green:active {
+    background: #128870;
+}
+
+.btn.blue {
+    background: #3498db;
+    color: white;
+}
+
+.btn.blue:active {
+    background: #2675aa;
+}
+
+.badge {
+    font-size: 0.9em;
+    font-weight: bold;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+.badge.red {
+    background: #ee5253;
+    color: white;
+}

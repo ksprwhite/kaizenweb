@@ -1,0 +1,24 @@
+.chapter-container {
+    width: 100%;
+    background: rgba(0,0,0,0.9);
+    align-items: center;
+    display: flex;
+    padding: 50px 10px;
+    justify-content: center;
+    flex-direction: column;
+
+    > .title {
+        color: white;
+        font-size: 3em;
+        margin-bottom: 10px;
+    }
+
+    ul.pages {
+        li {
+            margin-bottom: 15px;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+        }
+    }
+}
